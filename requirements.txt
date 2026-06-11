@@ -1,0 +1,15 @@
+nltk
+pandas
+numpy
+scikit-learn
+streamlit
+wordcloud
+matplotlib
+pillow
+textblob
+networkx
+python-louvain
+scipy
+openpyxl
+pyspellchecker
+sentence-transformers
